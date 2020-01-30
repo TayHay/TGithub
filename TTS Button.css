@@ -1,0 +1,32 @@
+body {
+    padding: 25px 15px 25px 15px;
+    margin: 50px 50px 50px 50px;
+    border: #7a7a7a;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 3px;
+    display: inline;
+    position: absolute;
+    Top: 50%;
+    Left: 50%;
+    transform: translate(-50%, -50%)    
+}
+
+.glyph {
+    background-color: #fff;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    display: inline;
+    font-size: 45px;
+    color:#575757;
+}
+p {
+    background-color: #fff;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #ff8c00;
+    display: inline;    
+}
